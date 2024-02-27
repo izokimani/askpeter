@@ -11,11 +11,9 @@ import type { AppInfo } from '@/types/app'
 import Button from '@/app/components/base/button'
 
 export const AppInfoComp: FC<{ siteInfo: AppInfo }> = ({ siteInfo }) => {
-  const { t } = useTranslation()
   return (
     <div>
-      <div className='flex items-center py-2 text-xl font-medium text-gray-700 rounded-md'>👏 {t('app.common.welcome')} {siteInfo.title}</div>
-      <p className='text-sm text-gray-500'>{siteInfo.description}</p>
+      <div className='flex items-center py-2 text-xl font-medium text-gray-700 rounded-md'>🏌️ Chat with 25 years of b2b sales and marketing leadership experience</div>
     </div>
   )
 }
