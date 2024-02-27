@@ -14,7 +14,7 @@ const translation = {
     publicPromptConfigTitle: 'Pre-Conversation Prompt',
     configStatusDes: 'Before starting, you can modify the conversational settings',
     configDisabled: 'This session will use the previous session’s form',
-    startChat: 'Start Conversation',
+    startChat: 'Ask Peter',
     privacyPolicyLeft: 'Please read the ',
     privacyPolicyMiddle: 'Privacy Policy',
     privacyPolicyRight: ' provided by the app developer.',
