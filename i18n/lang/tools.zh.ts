@@ -1,3 +1,4 @@
+// Fixed version of tools.zh.ts without syntax error
 const translation = {
   title: 'Tools',
   createCustomTool: 'Create Custom Tool',
@@ -84,12 +85,12 @@ const translation = {
   },
   noSearchRes: {
     title: 'Sorry, no results!',
-    content: 'We can't find any tools that match your search.',
+    content: 'We can\'t find any tools that match your search.',
     reset: 'Reset Search',
   },
   builtInPromptTitle: 'Prompt',
   toolRemoved: 'Tool has been removed',
   notAuthorized: 'Tool not authorized',
-}
+};
 
 export default translation;
