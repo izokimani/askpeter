@@ -5,7 +5,7 @@ const translation = {
     appUnknownError: 'Unknown Application Error',
   },
   chat: {
-    newChat: 'Ask Thread',
+    newChat: 'New Thread',
     newChatDefaultName: 'Ask Peter',
     openingStatementTitle: 'Conversation Opener',
     powerBy: 'Powered by',
